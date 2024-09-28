@@ -1,4 +1,4 @@
-# Sentiment Analysis Notebook
+# Sentiment Analysis
 
 This repository features a notebook dedicated to sentiment analysis across various categories, including Normal, Anxiety, Depression, Personality Disorder, Bipolar Disorder, Stress, and Suicidal Thoughts. Utilizing BERT followed by GRU, I developed a model to predict emotional states based on input sentences.
 
